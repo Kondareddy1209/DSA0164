@@ -25,3 +25,14 @@ int main() {
     s2.displayData();
     return 0;
 }
+
+
+
+
+OUTPUT:
+Name: John Doe
+Roll No: 101
+Grade: A
+Name: A.T.Kondareddy
+Roll No: 111
+Grade: S
